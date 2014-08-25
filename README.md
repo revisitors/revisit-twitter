@@ -1,5 +1,5 @@
-#Glitch Example API
-This little project is an example express app that abides by the [revist.link spec.](http://revisit.link/spec.html) and glitches out images!
+#Revisit Twitter Servrice
+This little project provides a single enpoint that posts an image to twitter.
 
 ##Installation:
  - `npm install -g nodemon`
